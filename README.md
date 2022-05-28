@@ -4,6 +4,7 @@
 
 
 ```bash
+go mod download
 cd cmd
 cd web
 go run .
